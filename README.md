@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/danielsdeboer/delegate.svg?branch=master)](https://travis-ci.org/danielsdeboer/delegate)
+
 ## Overview
 
 Delegate is a simple way to make property calls chainable when they otherwise wouldn't be.

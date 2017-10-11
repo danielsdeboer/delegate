@@ -1,0 +1,23 @@
+{
+    "name": "aviator/delegate",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aviator\\Delegate\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.4.0"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Aviator\\Delegate\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
